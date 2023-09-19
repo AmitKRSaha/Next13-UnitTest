@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`index test render component 1`] = `
+<div>
+  <div>
+    Next js Unit Test
+    <div>
+      delectus aut autem
+    </div>
+    <div>
+      quis ut nam facilis et officia qui
+    </div>
+  </div>
+</div>
+`;
